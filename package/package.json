@@ -5,7 +5,7 @@
   "license": "CC0-1.0",
   "description": "HL7 Belgium FHIR Template",
   "author": "http://hl7.org/fhir",
-  "canonical": "http://github.com/HL7/ig-template-fhir",
+  "canonical": "https://www.ehealth.fgov.be/standards/fhir/hl7.be.fhir.template",
   "base":  "fhir.base.template",
   "dependencies": {
     "fhir.base.template": "current"
